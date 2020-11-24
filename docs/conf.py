@@ -167,6 +167,3 @@ texinfo_documents = [
      author, 'EthereumTests', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
