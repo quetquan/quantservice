@@ -54,5 +54,6 @@ During this period, the Quart quantum platform will enter a period of cross-chai
 
 More
 ---------------------
-Medium: @quetquan
-Twitter:  @QuetzalQuant
+**Medium** :   @quetquan
+
+**Twitter** :  @QuetzalQuant
